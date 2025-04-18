@@ -1,0 +1,80 @@
+repo_name: tahadostifam/GetContributors
+report_id: bbe9b4cfdb2e4ca48917ddd4cc71e39b
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-25T21:38:17+00:00'
+requested_by: tahadostifam
+provider: github
+branch: main
+detected_tools_count: 6
+tools:
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/tahadostifam/GetContributors
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tahadostifam/GetContributors
+  detection_source: Repo Metadata
+- name: GitHub
+  description: Powerful collaboration, review, and code management for open source
+    and private development projects
+  website_url: https://github.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Collaboration & Version Control
+  image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/tahadostifam/GetContributors/blob/main/Gemfile
+  detection_source: Gemfile
+  last_updated_by: "[ Taha. Dostifam‍ ]"
+  last_updated_on: 2024-03-31 08:08:45.000000000 Z
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/tahadostifam/GetContributors/blob/main/.github/workflows/update_contributors.yml
+  detection_source: ".github/workflows/update_contributors.yml"
+  last_updated_by: "[ Taha. Dostifam‍ ]"
+  last_updated_on: 2024-04-01 12:52:10.000000000 Z
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/tahadostifam/GetContributors/blob/main/Gemfile
+  detection_source: Gemfile
+  last_updated_by: "[ Taha. Dostifam‍ ]"
+  last_updated_on: 2024-03-31 08:08:45.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/tahadostifam/GetContributors/blob/main/Gemfile
+  detection_source: Gemfile
+  last_updated_by: "[ Taha. Dostifam‍ ]"
+  last_updated_on: 2024-03-31 08:08:45.000000000 Z
